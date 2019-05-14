@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bill/bill_ros/ros_ws/install/setup.sh

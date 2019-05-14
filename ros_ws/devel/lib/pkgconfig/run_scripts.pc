@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/bill_ros/rascapp_robot/ros_ws/devel
+
+Name: run_scripts
+Description: Description of run_scripts
+Version: 0.0.0
+Cflags: -I/home/ubuntu/bill_ros/rascapp_robot/ros_ws/devel/include
+Libs: -L/home/ubuntu/bill_ros/rascapp_robot/ros_ws/devel/lib 
+Requires: geometry_msgs nav_msgs roscpp rospy std_msgs message_runtime

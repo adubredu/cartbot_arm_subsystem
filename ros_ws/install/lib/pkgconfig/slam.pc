@@ -1,0 +1,8 @@
+prefix=/home/bill/bill_ros/ros_ws/install
+
+Name: slam
+Description: Description of slam
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/bill/bill_ros/ros_ws/install/lib 
+Requires: 

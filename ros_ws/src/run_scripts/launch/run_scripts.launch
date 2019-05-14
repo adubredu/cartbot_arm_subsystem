@@ -1,0 +1,11 @@
+<launch>
+	
+
+	<node pkg="tf" type="static_transform_publisher" name="mobile_base_to_robot" args="0 0 0.415 0 0 0 base_link base 100" />
+
+	<include file="$(find rplidar_ros)/launch/rplidar.launch" />
+
+	<!-- <include file="$(find openni2_launch)/launch/openni2.launch" /> -->
+
+	
+</launch>

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/bill_ros/rascapp_robot/ros_ws/devel/setup.sh

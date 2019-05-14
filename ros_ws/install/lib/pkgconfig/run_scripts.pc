@@ -1,0 +1,8 @@
+prefix=/home/bill/bill_ros/ros_ws/install
+
+Name: run_scripts
+Description: Description of run_scripts
+Version: 0.0.0
+Cflags: -I/home/bill/bill_ros/ros_ws/install/include
+Libs: -L/home/bill/bill_ros/ros_ws/install/lib 
+Requires: geometry_msgs nav_msgs roscpp rospy std_msgs message_runtime

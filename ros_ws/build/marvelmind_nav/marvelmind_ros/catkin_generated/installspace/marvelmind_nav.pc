@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/bill_ros/rascapp_robot/ros_ws/install
+
+Name: marvelmind_nav
+Description: Description of marvelmind_nav
+Version: 1.0.8
+Cflags: -I/home/ubuntu/bill_ros/rascapp_robot/ros_ws/install/include
+Libs: -L/home/ubuntu/bill_ros/rascapp_robot/ros_ws/install/lib 
+Requires: message_runtime

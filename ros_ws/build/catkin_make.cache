@@ -1,0 +1,2 @@
+run_scripts:walk_distance_msg
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/bill_ros/rascapp_robot/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/bill_ros/rascapp_robot/ros_ws/install -G Unix Makefiles

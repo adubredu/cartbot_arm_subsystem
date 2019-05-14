@@ -1,0 +1,8 @@
+prefix=/home/bill/bill_ros/ros_ws/install
+
+Name: walk_distance_msg
+Description: Description of walk_distance_msg
+Version: 0.0.0
+Cflags: -I/home/bill/bill_ros/ros_ws/install/include
+Libs: -L/home/bill/bill_ros/ros_ws/install/lib 
+Requires: message_runtime
